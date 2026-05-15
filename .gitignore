@@ -1,0 +1,4 @@
+.claude/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
